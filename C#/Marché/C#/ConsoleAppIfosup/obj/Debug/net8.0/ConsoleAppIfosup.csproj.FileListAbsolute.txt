@@ -1,0 +1,14 @@
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\obj\Debug\net8.0\ConsoleAppIfosup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\obj\Debug\net8.0\ConsoleAppIfosup.AssemblyInfoInputs.cache
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\obj\Debug\net8.0\ConsoleAppIfosup.AssemblyInfo.cs
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\obj\Debug\net8.0\ConsoleAppIfosup.csproj.CoreCompileInputs.cache
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\bin\Debug\net8.0\ConsoleAppIfosup.exe
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\bin\Debug\net8.0\ConsoleAppIfosup.deps.json
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\bin\Debug\net8.0\ConsoleAppIfosup.runtimeconfig.json
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\bin\Debug\net8.0\ConsoleAppIfosup.dll
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\bin\Debug\net8.0\ConsoleAppIfosup.pdb
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\obj\Debug\net8.0\ConsoleAppIfosup.dll
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\obj\Debug\net8.0\refint\ConsoleAppIfosup.dll
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\obj\Debug\net8.0\ConsoleAppIfosup.pdb
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\obj\Debug\net8.0\ConsoleAppIfosup.genruntimeconfig.cache
+C:\Users\julie\Desktop\Web Sync\Progra\C#\ConsoleAppIfosup\obj\Debug\net8.0\ref\ConsoleAppIfosup.dll
